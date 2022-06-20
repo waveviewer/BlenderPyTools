@@ -1,0 +1,6 @@
+/results/
+/simplify_logs/
+/venv/
+.idea
+*.ply
+*.log
